@@ -1,0 +1,40 @@
+_repo: Der-Schandfleck-b-Eine-Dorfgeschichte_70044
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anzengruber, Ludwig
+    birthdate: 1839
+    deathdate: 1889
+    gutenberg_agent_id: '847'
+    url: http://www.gutenberg.org/2009/agents/847
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Ludwig_Anzengruber
+    - http://en.wikipedia.org/wiki/Ludwig_Anzengruber
+  editor:
+    agent_name: Neumann, Carl W. (Carl Wilhelm)
+    aliases:
+    - Neumann, C. W. (Carl Wilhelm),
+    - Neumann, Karl Wilhelm
+    - Neumann, K. W. (Karl Wilhelm)
+    - Neumann, Richard
+    birthdate: 1871
+    deathdate: 1939
+    gutenberg_agent_id: '45698'
+    url: http://www.gutenberg.org/2009/agents/45698
+description: ''
+gutenberg_issued: '2023-02-14'
+identifiers:
+  gutenberg: '70044'
+language: de
+pgterms:marc905: 20190226024408anzengrube
+pgterms:marc906: '1920'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bVerlag von Philipp Reclam jun., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Schandfleck : $b Eine Dorfgeschichte'
+url: http://www.gutenberg.org/ebooks/70044
